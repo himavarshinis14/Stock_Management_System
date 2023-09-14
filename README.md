@@ -27,7 +27,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/sasikiran20/stocksimulator.git
+  git clone https://github.com/himavarshinis14/Stock_Management_System.git
 ```
 
 Go to the project directory
